@@ -1,14 +1,13 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Jacob Ewell's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jacob Ewell
+Salesman and Business Analytics/Data Science Major at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+<a href="jacobkirkewell@gmail.com">jacobkirkewell@gmail.com</a>
+| <a href="https://www.linkedin.com/in/jacobewell/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,70 +15,63 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2020-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- 3.92 GPA graduating __April 2023__
+- Business Analytics Major/Data Science Minor and recipient of full tuition scholarship.
 
 ## Related Experience
 
-### Internships
+### Sales Manager / Senior Account Executive
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`June 2022 - Present`
+__Frozen Dessert Supplies__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Email, call, and meet with clients to identify customer needs, and provide viable business solutions.
+- Cooperated daily with the company directors and VP of operations to develop replicable SOP’s and sales strategies to reach company-wide sales goals.
+- Consistently performed as the top Account Executive with an average performance of 220% of quota.
+- Director of Sales Hank Fowles – (480) 930-1035
 
-### Data Science Lead
+### Direct-to-Home Sales Representative
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`June 2020 - June 2022`
+__Vivint Smart Home__, Tempe, AZ 
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Prospect, qualify, present, overcome objections, and close new Vivint Smart Home accounts through question-based selling to identify needs and provide security solutions.
+- Personally closed 135 career accounts with an 85% close rate.
+- Developed daily the skills of listening, practicing, and applying training from office leaders.
+- Sales Manager Spencer Golson – (931) 802-1885
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Norwegian Teacher
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`January 2020 - June 2020`
+__Missionary Training Center__, Provo, UT
 
-### Data Science Consulting Team
+- Teach the Norwegian language principles clearly and concisely to small groups of students with no prior experience to prepare them for a twoyear volunteer mission in Norway. 
+- Prepare lesson plans while utilizing question-based teaching to identify needs for future lessons. 
+- Supervisor Allie Ahlm – (540) 226-8312 
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### Assistant to the Mission President
+
+`November 2017 - December 2019`
+__Norway Oslo Mission__, Oslo, Norway
 
 - Build web scraping tool to find and format school district technology data.
 - Used R and the Rvest package to parse and format web data.
 - Saved 30 hours a month with the automated scripts.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+## Skills
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Experience with Consultative, Question Based Sales
+- Experience with Sales Team Leadership 
+- High level of understanding and proficiency in Excel Worksheets, SQL, Pandas, R and HubSpot
+- Extremely Detail Oriented and quick to ask questions about how to improve
+- Fast to learn and receive feedback to improve workflow, work quality and increase unity with coworkers
 
+## Interests
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+__Consultative Sales ~ Data Science ~ Business Analytics ~ Leadership ~ SAAS__ 
 
 
 <!-- ### Footer
